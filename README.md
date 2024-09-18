@@ -31,7 +31,7 @@
 <p align="center">
   <h2>:zap: Back End</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,spring,dotnet,azure,idea,eclipse,visualstudio,maven,gradle,mysql,postgres,&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,cs,spring,dotnet,azure,idea,eclipse,visualstudio,maven,gradle,mysql,postgres&perline=6" />
   </a>
   
   <h2>:star2: Front End</h2>
