@@ -6,7 +6,7 @@
 
 <p align="center">
     <a href="https://youtube.com/@luisgamer88-fortniteymas92" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unprogramadornace" /></a>
-    <a href="https://www.linkedin.com/in/luis-moises-giron-garay-188237286/"  target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@luismoisesgirongaray"/></a>
+    <a href="https://www.linkedin.com/in/luisalt20/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@luismoisesgirongaray"/></a>
     <a href="https://discord.gg/XxsUqNzejd" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-1877F2?style=for-the-badge&logo=discord&logoColor=white" alt="@unprogramadornace" /></a>
     <a href = "mailto:luismgg2006business@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@luismgg2006business@gmail.com" /></a>
     <a href="https://paypal.me/luisgamer88?country.x=PE&locale.x=es_XC" target="_blank"><img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="@unprogramadornace"/</a>
