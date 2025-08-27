@@ -52,7 +52,7 @@
   <details open>
     <summary><h3>:sparkles: Frontend</h3></summary>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,vscode,sublime,tailwind,bootstrap,angular,tauri&perline=5" alt="Frontend Skills" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,vscode,sublime,tailwind,bootstrap,angular&perline=3" alt="Frontend Skills" />
     </a>
   </details>
 
